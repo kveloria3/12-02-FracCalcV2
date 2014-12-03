@@ -1,0 +1,10 @@
+3,6c3,6
+< frac1 + frac2: 3/4
+< frac1 - frac2: 1/2
+< frac1 * frac2: 1/8
+< frac1 / frac2: 1/2
+---
+> frac1 + frac2 = 3/4
+> frac1 - frac2 = 1/2
+> frac1 * frac2 = 1/8
+> frac1 / frac2 = 1/2
