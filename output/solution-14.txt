@@ -1,0 +1,6 @@
+frac1:3/6
+frac2:2/8
+frac1+frac2=36/48
+frac1-frac2=192/384
+frac1*frac2=384/3072
+frac1/frac2=3072/6144
